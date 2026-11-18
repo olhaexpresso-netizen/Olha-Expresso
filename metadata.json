@@ -1,0 +1,8 @@
+{
+  "name": "Remix VIDA REAL BR",
+  "description": "Simulador de vida brasileiro com inteligência artificial, árvores genealógicas, carreiras, economia e escolhas dinâmicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

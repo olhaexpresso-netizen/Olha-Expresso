@@ -1,0 +1,3224 @@
+{
+  "char_1795015947801": {
+    "id": "char_1795015947801",
+    "createdAt": 1795015947802,
+    "updatedAt": 1795015979498,
+    "character": {
+      "id": "char_1795015947801",
+      "userId": "user_default",
+      "firstName": "Pedro",
+      "lastName": "Ferreira",
+      "gender": "Masculino",
+      "avatarSeed": "PedroFerreira",
+      "appearanceSeed": "Pedro_Ferreira_Masculino_prheq",
+      "appearance": {
+        "characterId": "char_1795015947801",
+        "appearanceSeed": "Pedro_Ferreira_Masculino_prheq",
+        "faceShape": "largo",
+        "skinTone": "clara_rosada",
+        "eyeStyle": "semicerrados",
+        "eyeColor": "azul_profundo",
+        "eyebrowStyle": "arqueada",
+        "noseStyle": "pequeno",
+        "mouthStyle": "arco",
+        "hairStyle": "ondulado_curto",
+        "hairColor": "loiro_escuro",
+        "facialHair": "none",
+        "mustacheStyle": "none",
+        "accessories": {
+          "glasses": "none",
+          "earrings": "none",
+          "freckles": false,
+          "facialMark": "bandaid"
+        },
+        "shirtColor": "#EC4899",
+        "backgroundColor": "#E2E8F0"
+      },
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Campinas",
+      "birthYear": 2000,
+      "currentAge": 2,
+      "money": 1500000,
+      "salary": 0,
+      "health": 100,
+      "happiness": 100,
+      "intelligence": 53,
+      "looks": 60,
+      "fitness": 70,
+      "charisma": 50,
+      "discipline": 53,
+      "reputation": 50,
+      "careerSkill": 0,
+      "emotionalStability": 70,
+      "status": "Vivo",
+      "generation": 1,
+      "educationLevel": "Nenhum",
+      "educationProgress": 0,
+      "careerExperienceYears": 0,
+      "criminalRecord": {
+        "arrests": 0,
+        "prisonYearsRemaining": 0,
+        "crimesCommitted": []
+      },
+      "ageMonths": 24
+    },
+    "family": [
+      {
+        "id": "fam_1",
+        "characterId": "char_1795015947801",
+        "name": "Carlos Ferreira",
+        "relation": "Pai",
+        "age": 34,
+        "alive": true,
+        "relationship": 80,
+        "occupation": "Motorista / Comerciante",
+        "appearanceSeed": "char_1795015947801_fam_1_Pai",
+        "appearance": {
+          "characterId": "fam_1",
+          "appearanceSeed": "char_1795015947801_fam_1_Pai",
+          "faceShape": "redondo",
+          "skinTone": "clara_rosada",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "azul_profundo",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "aquilino",
+          "mouthStyle": "cheios",
+          "hairStyle": "curto_social",
+          "hairColor": "loiro_platinado",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#F97316",
+          "backgroundColor": "#FCE7F3"
+        },
+        "ageMonths": 408
+      },
+      {
+        "id": "fam_2",
+        "characterId": "char_1795015947801",
+        "name": "Maria Ferreira",
+        "relation": "Mãe",
+        "age": 32,
+        "alive": true,
+        "relationship": 85,
+        "occupation": "Professora",
+        "appearanceSeed": "char_1795015947801_fam_2_Mae",
+        "appearance": {
+          "characterId": "fam_2",
+          "appearanceSeed": "char_1795015947801_fam_2_Mae",
+          "faceShape": "largo",
+          "skinTone": "porcelana",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "verde_esmeralda",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "pequeno",
+          "mouthStyle": "finos",
+          "hairStyle": "cacheado_curto",
+          "hairColor": "loiro_escuro",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#EC4899",
+          "backgroundColor": "#FCE7F3"
+        },
+        "ageMonths": 384
+      },
+      {
+        "id": "fam_3",
+        "characterId": "char_1795015947801",
+        "name": "Antônio Ferreira",
+        "relation": "Avô",
+        "age": 64,
+        "alive": true,
+        "relationship": 75,
+        "occupation": "Aposentado",
+        "appearanceSeed": "char_1795015947801_fam_3_AvoM",
+        "appearance": {
+          "characterId": "fam_3",
+          "appearanceSeed": "char_1795015947801_fam_3_AvoM",
+          "faceShape": "redondo",
+          "skinTone": "clara_rosada",
+          "eyeStyle": "grandes",
+          "eyeColor": "castanho_medio",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "aquilino",
+          "mouthStyle": "finos",
+          "hairStyle": "careca",
+          "hairColor": "loiro_platinado",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#10B981",
+          "backgroundColor": "#E0E7FF"
+        },
+        "ageMonths": 768
+      },
+      {
+        "id": "fam_4",
+        "characterId": "char_1795015947801",
+        "name": "Helena Ferreira",
+        "relation": "Avó",
+        "age": 62,
+        "alive": true,
+        "relationship": 78,
+        "occupation": "Costureira",
+        "appearanceSeed": "char_1795015947801_fam_4_AvoF",
+        "appearance": {
+          "characterId": "fam_4",
+          "appearanceSeed": "char_1795015947801_fam_4_AvoF",
+          "faceShape": "triangulo_invertido",
+          "skinTone": "porcelana",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "verde_esmeralda",
+          "eyebrowStyle": "arqueada",
+          "noseStyle": "pequeno",
+          "mouthStyle": "finos",
+          "hairStyle": "black_power_volumoso",
+          "hairColor": "loiro_escuro",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#EC4899",
+          "backgroundColor": "#FEF3C7"
+        },
+        "ageMonths": 744
+      }
+    ],
+    "assets": [],
+    "events": [
+      {
+        "id": "evt_birth",
+        "characterId": "char_1795015947801",
+        "age": 0,
+        "year": 2000,
+        "title": "Nascimento",
+        "description": "Você nasceu em um hospital em Campinas, São Paulo. Seus pais, Carlos Ferreira e Maria Ferreira, estão radiantes com a sua chegada.",
+        "category": "Família",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Chorar muito e mamar",
+            "effectDescription": "Início saudável da vida."
+          },
+          {
+            "id": "b",
+            "text": "Dormir tranquilo",
+            "effectDescription": "Bebê calmo e sossegado."
+          }
+        ],
+        "chosenOptionId": "a",
+        "truthStatus": "SIMULATED_EVENT"
+      },
+      {
+        "id": "evt_1795015955436",
+        "characterId": "char_1795015947801",
+        "age": 1,
+        "year": 2001,
+        "title": "Churrasco de Domingo em Família",
+        "description": "Sua família organizou um churrasco tradicional de domingo na casa dos seus pais, com direito a muita carne na brasa, pagode e conversa boa.",
+        "category": "Família",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Ajudar a assar a carne e socializar com todos",
+            "effectDescription": "Aumenta felicidade e laços familiares."
+          },
+          {
+            "id": "b",
+            "text": "Ficar no quarto jogando videogame ou no celular",
+            "effectDescription": "Aumenta estresse, diminui relação com os pais."
+          },
+          {
+            "id": "c",
+            "text": "Comer demais e beber aquela cerveja gelada",
+            "effectDescription": "Felicidade alta, leve queda no condicionamento físico."
+          }
+        ],
+        "chosenOptionId": "b",
+        "truthStatus": "SIMULATED_EVENT"
+      },
+      {
+        "id": "evt_1795015978039",
+        "characterId": "char_1795015947801",
+        "age": 2,
+        "year": 2002,
+        "title": "Passeio na Lagoa do Taquaral",
+        "description": "Aos 2 anos, morando em Campinas, São Paulo, sua vida segue em frente com novos desafios e oportunidades cotidianas.",
+        "category": "Geral",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Focar nos estudos e trabalho com dedicação",
+            "effectDescription": "Melhora inteligência e carreira."
+          },
+          {
+            "id": "b",
+            "text": "Curtir a vida, amigos e lazer",
+            "effectDescription": "Aumenta felicidade e relaxamento."
+          },
+          {
+            "id": "c",
+            "text": "Investir em novas oportunidades de negócio ou economia",
+            "effectDescription": "Pode aumentar finanças ou gerar risco."
+          }
+        ],
+        "chosenOptionId": "b",
+        "truthStatus": "SIMULATED_EVENT"
+      }
+    ],
+    "history": [
+      {
+        "age": 0,
+        "year": 2000,
+        "summary": "Nasceu em Campinas, São Paulo."
+      },
+      {
+        "age": 1,
+        "year": 2001,
+        "summary": "Completou 1 anos. Churrasco de Domingo em Família"
+      },
+      {
+        "age": 2,
+        "year": 2002,
+        "summary": "Completou 2 anos. Passeio na Lagoa do Taquaral"
+      }
+    ],
+    "userPreferences": {
+      "autoOpenEvents": true,
+      "compactTimeline": false,
+      "confirmRiskyActions": true
+    },
+    "worldState": {
+      "schemaVersion": 11,
+      "seed": "Pedro_Ferreira_Masculino_prheq",
+      "startYear": 2002,
+      "clock": {
+        "day": 1,
+        "month": 1,
+        "year": 2002,
+        "totalDaysElapsed": 0,
+        "totalMonthsElapsed": 0,
+        "decade": 2000,
+        "century": 21,
+        "season": "Verão",
+        "era": "SECULO_XXI",
+        "eraLabel": "Século XXI (Contemporâneo)",
+        "brazilPhase": "BRASIL_CONTEMPORANEO",
+        "brazilPhaseLabel": "Brasil Contemporâneo",
+        "tickCount": 0,
+        "lastTickId": "tick_2002_1_1_0"
+      },
+      "economy": {
+        "cyclePhase": "Expansão",
+        "globalGdpBillionsUSD": 85000,
+        "globalGdpGrowthRate": 3.1,
+        "globalInflationRate": 3.4,
+        "globalUnemploymentRate": 5.4,
+        "commodityIndex": 100,
+        "techMarketIndex": 125,
+        "realEstateIndex": 100,
+        "housingAffordabilityIndex": 56,
+        "energyPriceIndex": 100,
+        "costOfLivingMultiplier": 1,
+        "creditAvailability": 68,
+        "creditInterestSpreadPct": 12.5,
+        "activeCrises": []
+      },
+      "brazil": {
+        "phase": "BRASIL_CONTEMPORANEO",
+        "phaseLabel": "Brasil Contemporâneo",
+        "constitution": "Constituição da República Federativa do Brasil de 1988",
+        "constitutionYear": 1988,
+        "currency": {
+          "id": "cur_real",
+          "name": "Real",
+          "code": "BRL",
+          "symbol": "R$",
+          "startYear": 1994,
+          "endYear": 3000,
+          "divisorFromPrevious": 2750,
+          "conversionNote": "Plano Real (1994): conversão de CR$ 2.750,00 para R$ 1,00."
+        },
+        "monetaryHistory": [],
+        "currentGovernment": {
+          "id": "gov_fhc",
+          "leaderName": "Fernando Henrique Cardoso",
+          "title": "Presidente da República",
+          "regime": "República Democrática",
+          "partyOrCoalition": "PSDB / PFL",
+          "startYear": 1995,
+          "endYear": 2002,
+          "truthStatus": "HISTORICAL_FACT",
+          "economicOrientation": "Estabilização",
+          "baseTaxRatePct": 26,
+          "keyPolicies": [
+            "Consolidação do Real",
+            "Privatizações e Lei de Responsabilidade Fiscal"
+          ]
+        },
+        "politicalRegimeType": "República Presidencialista",
+        "electionCycleYear": 4,
+        "nextElectionYear": 2005,
+        "canVoteDirectly": true,
+        "population": 208890000,
+        "urbanizationRate": 78,
+        "gdpBillionsUSD": 1425.6,
+        "gdpGrowthRate": 2.5,
+        "annualInflationRate": 4.4,
+        "selicRate": 8.5,
+        "unemploymentRate": 7.8,
+        "publicDebtPctGdp": 54,
+        "baseTaxRatePct": 26,
+        "realWageIndex": 97,
+        "povertyRatePct": 21.1,
+        "minimumWageNominal": 454,
+        "exchangeRatePerUSD": 2.12,
+        "literacyRate": 84,
+        "lifeExpectancy": 70,
+        "institutionalTrust": 56,
+        "socialInequalityGini": 0.54,
+        "states": {
+          "São Paulo": {
+            "ufCode": "SP",
+            "region": "Sudeste",
+            "population": 45538020,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 126,
+            "safetyIndex": 60
+          },
+          "Rio de Janeiro": {
+            "ufCode": "RJ",
+            "region": "Sudeste",
+            "population": 16502310,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 120,
+            "safetyIndex": 60
+          },
+          "Minas Gerais": {
+            "ufCode": "MG",
+            "region": "Sudeste",
+            "population": 21097890,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 113,
+            "safetyIndex": 60
+          },
+          "Espírito Santo": {
+            "ufCode": "ES",
+            "region": "Sudeste",
+            "population": 3968910,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 114,
+            "safetyIndex": 60
+          },
+          "Bahia": {
+            "ufCode": "BA",
+            "region": "Nordeste",
+            "population": 14622300,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 56
+          },
+          "Pernambuco": {
+            "ufCode": "PE",
+            "region": "Nordeste",
+            "population": 9400050,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 106,
+            "safetyIndex": 56
+          },
+          "Ceará": {
+            "ufCode": "CE",
+            "region": "Nordeste",
+            "population": 8982270,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 56
+          },
+          "Rio Grande do Sul": {
+            "ufCode": "RS",
+            "region": "Sul",
+            "population": 11280060,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 116,
+            "safetyIndex": 68
+          },
+          "Paraná": {
+            "ufCode": "PR",
+            "region": "Sul",
+            "population": 11697840,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 117,
+            "safetyIndex": 68
+          },
+          "Santa Catarina": {
+            "ufCode": "SC",
+            "region": "Sul",
+            "population": 7728930,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 119,
+            "safetyIndex": 68
+          },
+          "Goiás": {
+            "ufCode": "GO",
+            "region": "Centro-Oeste",
+            "population": 7102260,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 112,
+            "safetyIndex": 56
+          },
+          "Distrito Federal": {
+            "ufCode": "DF",
+            "region": "Centro-Oeste",
+            "population": 2924460,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 132,
+            "safetyIndex": 56
+          },
+          "Mato Grosso": {
+            "ufCode": "MT",
+            "region": "Centro-Oeste",
+            "population": 3760020,
+            "developmentIndex": 0.807,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 118,
+            "safetyIndex": 56
+          },
+          "Mato Grosso do Sul": {
+            "ufCode": "MS",
+            "region": "Centro-Oeste",
+            "population": 2715570,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 114,
+            "safetyIndex": 56
+          },
+          "Amazonas": {
+            "ufCode": "AM",
+            "region": "Norte",
+            "population": 4177800,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 108,
+            "safetyIndex": 56
+          },
+          "Pará": {
+            "ufCode": "PA",
+            "region": "Norte",
+            "population": 8564490,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 103,
+            "safetyIndex": 56
+          },
+          "Maranhão": {
+            "ufCode": "MA",
+            "region": "Nordeste",
+            "population": 6893370,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 100,
+            "safetyIndex": 56
+          },
+          "Paraíba": {
+            "ufCode": "PB",
+            "region": "Nordeste",
+            "population": 3968910,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 102,
+            "safetyIndex": 56
+          },
+          "Rio Grande do Norte": {
+            "ufCode": "RN",
+            "region": "Nordeste",
+            "population": 3342240,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 56
+          },
+          "Alagoas": {
+            "ufCode": "AL",
+            "region": "Nordeste",
+            "population": 3133350,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 101,
+            "safetyIndex": 56
+          },
+          "Piauí": {
+            "ufCode": "PI",
+            "region": "Nordeste",
+            "population": 3342240,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 100,
+            "safetyIndex": 56
+          },
+          "Sergipe": {
+            "ufCode": "SE",
+            "region": "Nordeste",
+            "population": 2297790,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 56
+          },
+          "Rondônia": {
+            "ufCode": "RO",
+            "region": "Norte",
+            "population": 1671120,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 107,
+            "safetyIndex": 56
+          },
+          "Tocantins": {
+            "ufCode": "TO",
+            "region": "Norte",
+            "population": 1671120,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 107,
+            "safetyIndex": 56
+          },
+          "Acre": {
+            "ufCode": "AC",
+            "region": "Norte",
+            "population": 835560,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 102,
+            "safetyIndex": 56
+          },
+          "Amapá": {
+            "ufCode": "AP",
+            "region": "Norte",
+            "population": 835560,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 56
+          },
+          "Roraima": {
+            "ufCode": "RR",
+            "region": "Norte",
+            "population": 626670,
+            "developmentIndex": 0.765,
+            "unemploymentRate": 8.1,
+            "costOfLivingIndex": 105,
+            "safetyIndex": 56
+          }
+        },
+        "cities": {
+          "sp_capital": {
+            "id": "sp_capital",
+            "name": "São Paulo",
+            "state": "São Paulo",
+            "ufCode": "SP",
+            "region": "Sudeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1554,
+            "population": 9801200,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.739,
+            "costOfLivingIndex": 121,
+            "safetyIndex": 58,
+            "jobOpportunityIndex": 85,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 48,
+            "mainSectors": [
+              "Finanças",
+              "Tecnologia",
+              "Comércio",
+              "Indústria",
+              "Entretenimento"
+            ]
+          },
+          "sp_campinas": {
+            "id": "sp_campinas",
+            "name": "Campinas",
+            "state": "São Paulo",
+            "ufCode": "SP",
+            "region": "Sudeste",
+            "tier": "interior",
+            "countryId": "BRA",
+            "foundedYear": 1774,
+            "population": 975840,
+            "urbanizationRate": 88,
+            "developmentIndex": 0.748,
+            "costOfLivingIndex": 106,
+            "safetyIndex": 66,
+            "jobOpportunityIndex": 76,
+            "infrastructureLevel": 75,
+            "climateRiskIndex": 38,
+            "mainSectors": [
+              "Tecnologia",
+              "Indústria",
+              "Educação",
+              "Logística"
+            ]
+          },
+          "sp_ribeirao_preto": {
+            "id": "sp_ribeirao_preto",
+            "name": "Ribeirão Preto",
+            "state": "São Paulo",
+            "ufCode": "SP",
+            "region": "Sudeste",
+            "tier": "interior",
+            "countryId": "BRA",
+            "foundedYear": 1856,
+            "population": 597488,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.739,
+            "costOfLivingIndex": 96,
+            "safetyIndex": 68,
+            "jobOpportunityIndex": 72,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 42,
+            "mainSectors": [
+              "Agropecuária",
+              "Saúde",
+              "Comércio",
+              "Educação"
+            ]
+          },
+          "rj_capital": {
+            "id": "rj_capital",
+            "name": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "ufCode": "RJ",
+            "region": "Sudeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1565,
+            "population": 5315760,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.73,
+            "costOfLivingIndex": 117,
+            "safetyIndex": 48,
+            "jobOpportunityIndex": 77,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 56,
+            "mainSectors": [
+              "Energia",
+              "Entretenimento",
+              "Finanças",
+              "Comércio"
+            ]
+          },
+          "mg_bh": {
+            "id": "mg_bh",
+            "name": "Belo Horizonte",
+            "state": "Minas Gerais",
+            "ufCode": "MG",
+            "region": "Sudeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1897,
+            "population": 1981640,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.739,
+            "costOfLivingIndex": 99,
+            "safetyIndex": 64,
+            "jobOpportunityIndex": 73,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 44,
+            "mainSectors": [
+              "Tecnologia",
+              "Comércio",
+              "Saúde",
+              "Indústria"
+            ]
+          },
+          "mg_uberlandia": {
+            "id": "mg_uberlandia",
+            "name": "Uberlândia",
+            "state": "Minas Gerais",
+            "ufCode": "MG",
+            "region": "Sudeste",
+            "tier": "interior",
+            "countryId": "BRA",
+            "foundedYear": 1888,
+            "population": 610328,
+            "urbanizationRate": 87,
+            "developmentIndex": 0.73,
+            "costOfLivingIndex": 91,
+            "safetyIndex": 70,
+            "jobOpportunityIndex": 72,
+            "infrastructureLevel": 74,
+            "climateRiskIndex": 36,
+            "mainSectors": [
+              "Logística",
+              "Agropecuária",
+              "Comércio",
+              "Tecnologia"
+            ]
+          },
+          "es_vitoria": {
+            "id": "es_vitoria",
+            "name": "Vitória",
+            "state": "Espírito Santo",
+            "ufCode": "ES",
+            "region": "Sudeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1551,
+            "population": 312440,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.767,
+            "costOfLivingIndex": 102,
+            "safetyIndex": 62,
+            "jobOpportunityIndex": 70,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 40,
+            "mainSectors": [
+              "Logística",
+              "Energia",
+              "Comércio",
+              "Indústria"
+            ]
+          },
+          "pr_curitiba": {
+            "id": "pr_curitiba",
+            "name": "Curitiba",
+            "state": "Paraná",
+            "ufCode": "PR",
+            "region": "Sul",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1693,
+            "population": 1517688,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.758,
+            "costOfLivingIndex": 98,
+            "safetyIndex": 71,
+            "jobOpportunityIndex": 74,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 42,
+            "mainSectors": [
+              "Indústria",
+              "Tecnologia",
+              "Logística",
+              "Educação"
+            ]
+          },
+          "rs_poa": {
+            "id": "rs_poa",
+            "name": "Porto Alegre",
+            "state": "Rio Grande do Sul",
+            "ufCode": "RS",
+            "region": "Sul",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1772,
+            "population": 1140192,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.739,
+            "costOfLivingIndex": 97,
+            "safetyIndex": 60,
+            "jobOpportunityIndex": 71,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 58,
+            "mainSectors": [
+              "Comércio",
+              "Saúde",
+              "Tecnologia",
+              "Agropecuária"
+            ]
+          },
+          "sc_florianopolis": {
+            "id": "sc_florianopolis",
+            "name": "Florianópolis",
+            "state": "Santa Catarina",
+            "ufCode": "SC",
+            "region": "Sul",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1673,
+            "population": 459672,
+            "urbanizationRate": 87,
+            "developmentIndex": 0.776,
+            "costOfLivingIndex": 104,
+            "safetyIndex": 78,
+            "jobOpportunityIndex": 72,
+            "infrastructureLevel": 74,
+            "climateRiskIndex": 46,
+            "mainSectors": [
+              "Tecnologia",
+              "Entretenimento",
+              "Educação",
+              "Comércio"
+            ]
+          },
+          "sc_joinville": {
+            "id": "sc_joinville",
+            "name": "Joinville",
+            "state": "Santa Catarina",
+            "ufCode": "SC",
+            "region": "Sul",
+            "tier": "interior",
+            "countryId": "BRA",
+            "foundedYear": 1851,
+            "population": 527296,
+            "urbanizationRate": 87,
+            "developmentIndex": 0.748,
+            "costOfLivingIndex": 93,
+            "safetyIndex": 76,
+            "jobOpportunityIndex": 75,
+            "infrastructureLevel": 74,
+            "climateRiskIndex": 44,
+            "mainSectors": [
+              "Indústria",
+              "Tecnologia",
+              "Logística"
+            ]
+          },
+          "df_brasilia": {
+            "id": "df_brasilia",
+            "name": "Brasília",
+            "state": "Distrito Federal",
+            "ufCode": "DF",
+            "region": "Centro-Oeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1960,
+            "population": 2411352,
+            "urbanizationRate": 87,
+            "developmentIndex": 0.767,
+            "costOfLivingIndex": 113,
+            "safetyIndex": 63,
+            "jobOpportunityIndex": 72,
+            "infrastructureLevel": 74,
+            "climateRiskIndex": 38,
+            "mainSectors": [
+              "Educação",
+              "Finanças",
+              "Tecnologia",
+              "Construção"
+            ]
+          },
+          "go_goiania": {
+            "id": "go_goiania",
+            "name": "Goiânia",
+            "state": "Goiás",
+            "ufCode": "GO",
+            "region": "Centro-Oeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1933,
+            "population": 1230072,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.73,
+            "costOfLivingIndex": 90,
+            "safetyIndex": 64,
+            "jobOpportunityIndex": 71,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 40,
+            "mainSectors": [
+              "Agropecuária",
+              "Comércio",
+              "Saúde",
+              "Construção"
+            ]
+          },
+          "mt_cuiaba": {
+            "id": "mt_cuiaba",
+            "name": "Cuiabá",
+            "state": "Mato Grosso",
+            "ufCode": "MT",
+            "region": "Centro-Oeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1719,
+            "population": 556400,
+            "urbanizationRate": 88,
+            "developmentIndex": 0.712,
+            "costOfLivingIndex": 91,
+            "safetyIndex": 60,
+            "jobOpportunityIndex": 69,
+            "infrastructureLevel": 75,
+            "climateRiskIndex": 54,
+            "mainSectors": [
+              "Agropecuária",
+              "Logística",
+              "Comércio"
+            ]
+          },
+          "mt_sorriso": {
+            "id": "mt_sorriso",
+            "name": "Sorriso (Polo Agro Rural)",
+            "state": "Mato Grosso",
+            "ufCode": "MT",
+            "region": "Centro-Oeste",
+            "tier": "rural",
+            "countryId": "BRA",
+            "foundedYear": 1986,
+            "population": 94160,
+            "urbanizationRate": 78,
+            "developmentIndex": 0.721,
+            "costOfLivingIndex": 83,
+            "safetyIndex": 74,
+            "jobOpportunityIndex": 73,
+            "infrastructureLevel": 66,
+            "climateRiskIndex": 46,
+            "mainSectors": [
+              "Agropecuária",
+              "Logística"
+            ]
+          },
+          "ms_campo_grande": {
+            "id": "ms_campo_grande",
+            "name": "Campo Grande",
+            "state": "Mato Grosso do Sul",
+            "ufCode": "MS",
+            "region": "Centro-Oeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1899,
+            "population": 768688,
+            "urbanizationRate": 88,
+            "developmentIndex": 0.721,
+            "costOfLivingIndex": 87,
+            "safetyIndex": 66,
+            "jobOpportunityIndex": 67,
+            "infrastructureLevel": 75,
+            "climateRiskIndex": 42,
+            "mainSectors": [
+              "Agropecuária",
+              "Comércio",
+              "Saúde"
+            ]
+          },
+          "ba_salvador": {
+            "id": "ba_salvador",
+            "name": "Salvador",
+            "state": "Bahia",
+            "ufCode": "BA",
+            "region": "Nordeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1549,
+            "population": 2069808,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.694,
+            "costOfLivingIndex": 91,
+            "safetyIndex": 50,
+            "jobOpportunityIndex": 65,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 46,
+            "mainSectors": [
+              "Comércio",
+              "Entretenimento",
+              "Energia",
+              "Saúde"
+            ]
+          },
+          "ce_fortaleza": {
+            "id": "ce_fortaleza",
+            "name": "Fortaleza",
+            "state": "Ceará",
+            "ufCode": "CE",
+            "region": "Nordeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1726,
+            "population": 2078368,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.685,
+            "costOfLivingIndex": 89,
+            "safetyIndex": 51,
+            "jobOpportunityIndex": 67,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 55,
+            "mainSectors": [
+              "Comércio",
+              "Logística",
+              "Tecnologia",
+              "Entretenimento"
+            ]
+          },
+          "pe_recife": {
+            "id": "pe_recife",
+            "name": "Recife",
+            "state": "Pernambuco",
+            "ufCode": "PE",
+            "region": "Nordeste",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1537,
+            "population": 1273728,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.703,
+            "costOfLivingIndex": 92,
+            "safetyIndex": 52,
+            "jobOpportunityIndex": 69,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 50,
+            "mainSectors": [
+              "Tecnologia",
+              "Saúde",
+              "Comércio",
+              "Educação"
+            ]
+          },
+          "pe_petrolina": {
+            "id": "pe_petrolina",
+            "name": "Petrolina (Sertão Irrigado)",
+            "state": "Pernambuco",
+            "ufCode": "PE",
+            "region": "Nordeste",
+            "tier": "interior",
+            "countryId": "BRA",
+            "foundedYear": 1893,
+            "population": 330416,
+            "urbanizationRate": 70,
+            "developmentIndex": 0.657,
+            "costOfLivingIndex": 77,
+            "safetyIndex": 62,
+            "jobOpportunityIndex": 63,
+            "infrastructureLevel": 60,
+            "climateRiskIndex": 66,
+            "mainSectors": [
+              "Agropecuária",
+              "Comércio",
+              "Energia"
+            ]
+          },
+          "ma_sao_luis": {
+            "id": "ma_sao_luis",
+            "name": "São Luís",
+            "state": "Maranhão",
+            "ufCode": "MA",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1612,
+            "population": 887672,
+            "urbanizationRate": 86,
+            "developmentIndex": 0.694,
+            "costOfLivingIndex": 83,
+            "safetyIndex": 54,
+            "jobOpportunityIndex": 61,
+            "infrastructureLevel": 73,
+            "climateRiskIndex": 46,
+            "mainSectors": [
+              "Logística",
+              "Indústria",
+              "Comércio"
+            ]
+          },
+          "pb_joao_pessoa": {
+            "id": "pb_joao_pessoa",
+            "name": "João Pessoa",
+            "state": "Paraíba",
+            "ufCode": "PB",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1585,
+            "population": 713048,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.703,
+            "costOfLivingIndex": 84,
+            "safetyIndex": 61,
+            "jobOpportunityIndex": 62,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 42,
+            "mainSectors": [
+              "Comércio",
+              "Entretenimento",
+              "Educação"
+            ]
+          },
+          "rn_natal": {
+            "id": "rn_natal",
+            "name": "Natal",
+            "state": "Rio Grande do Norte",
+            "ufCode": "RN",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1599,
+            "population": 642856,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.694,
+            "costOfLivingIndex": 83,
+            "safetyIndex": 55,
+            "jobOpportunityIndex": 62,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 48,
+            "mainSectors": [
+              "Energia",
+              "Entretenimento",
+              "Comércio"
+            ]
+          },
+          "al_maceio": {
+            "id": "al_maceio",
+            "name": "Maceió",
+            "state": "Alagoas",
+            "ufCode": "AL",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1815,
+            "population": 819192,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.675,
+            "costOfLivingIndex": 82,
+            "safetyIndex": 53,
+            "jobOpportunityIndex": 59,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 46,
+            "mainSectors": [
+              "Comércio",
+              "Entretenimento",
+              "Indústria"
+            ]
+          },
+          "pi_teresina": {
+            "id": "pi_teresina",
+            "name": "Teresina",
+            "state": "Piauí",
+            "ufCode": "PI",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1852,
+            "population": 741296,
+            "urbanizationRate": 85,
+            "developmentIndex": 0.685,
+            "costOfLivingIndex": 79,
+            "safetyIndex": 59,
+            "jobOpportunityIndex": 60,
+            "infrastructureLevel": 72,
+            "climateRiskIndex": 60,
+            "mainSectors": [
+              "Saúde",
+              "Comércio",
+              "Educação",
+              "Energia"
+            ]
+          },
+          "se_aracaju": {
+            "id": "se_aracaju",
+            "name": "Aracaju",
+            "state": "Sergipe",
+            "ufCode": "SE",
+            "region": "Nordeste",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1855,
+            "population": 515312,
+            "urbanizationRate": 90,
+            "developmentIndex": 0.703,
+            "costOfLivingIndex": 82,
+            "safetyIndex": 58,
+            "jobOpportunityIndex": 61,
+            "infrastructureLevel": 77,
+            "climateRiskIndex": 44,
+            "mainSectors": [
+              "Energia",
+              "Comércio",
+              "Saúde"
+            ]
+          },
+          "am_manaus": {
+            "id": "am_manaus",
+            "name": "Manaus",
+            "state": "Amazonas",
+            "ufCode": "AM",
+            "region": "Norte",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1669,
+            "population": 1765928,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.675,
+            "costOfLivingIndex": 90,
+            "safetyIndex": 53,
+            "jobOpportunityIndex": 66,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 52,
+            "mainSectors": [
+              "Indústria",
+              "Logística",
+              "Energia",
+              "Comércio"
+            ]
+          },
+          "pa_belem": {
+            "id": "pa_belem",
+            "name": "Belém",
+            "state": "Pará",
+            "ufCode": "PA",
+            "region": "Norte",
+            "tier": "metropole",
+            "countryId": "BRA",
+            "foundedYear": 1616,
+            "population": 1115368,
+            "urbanizationRate": 89,
+            "developmentIndex": 0.685,
+            "costOfLivingIndex": 87,
+            "safetyIndex": 51,
+            "jobOpportunityIndex": 62,
+            "infrastructureLevel": 76,
+            "climateRiskIndex": 54,
+            "mainSectors": [
+              "Logística",
+              "Comércio",
+              "Energia",
+              "Agropecuária"
+            ]
+          },
+          "ro_porto_velho": {
+            "id": "ro_porto_velho",
+            "name": "Porto Velho",
+            "state": "Rondônia",
+            "ufCode": "RO",
+            "region": "Norte",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1914,
+            "population": 393760,
+            "urbanizationRate": 83,
+            "developmentIndex": 0.666,
+            "costOfLivingIndex": 83,
+            "safetyIndex": 56,
+            "jobOpportunityIndex": 61,
+            "infrastructureLevel": 71,
+            "climateRiskIndex": 54,
+            "mainSectors": [
+              "Energia",
+              "Agropecuária",
+              "Logística"
+            ]
+          },
+          "to_palmas": {
+            "id": "to_palmas",
+            "name": "Palmas",
+            "state": "Tocantins",
+            "ufCode": "TO",
+            "region": "Norte",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1989,
+            "population": 258512,
+            "urbanizationRate": 87,
+            "developmentIndex": 0.721,
+            "costOfLivingIndex": 85,
+            "safetyIndex": 68,
+            "jobOpportunityIndex": 65,
+            "infrastructureLevel": 74,
+            "climateRiskIndex": 48,
+            "mainSectors": [
+              "Agropecuária",
+              "Educação",
+              "Comércio"
+            ]
+          },
+          "ac_rio_branco": {
+            "id": "ac_rio_branco",
+            "name": "Rio Branco",
+            "state": "Acre",
+            "ufCode": "AC",
+            "region": "Norte",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1882,
+            "population": 311584,
+            "urbanizationRate": 83,
+            "developmentIndex": 0.666,
+            "costOfLivingIndex": 81,
+            "safetyIndex": 57,
+            "jobOpportunityIndex": 58,
+            "infrastructureLevel": 71,
+            "climateRiskIndex": 56,
+            "mainSectors": [
+              "Comércio",
+              "Agropecuária"
+            ]
+          },
+          "ap_macapa": {
+            "id": "ap_macapa",
+            "name": "Macapá",
+            "state": "Amapá",
+            "ufCode": "AP",
+            "region": "Norte",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1758,
+            "population": 378352,
+            "urbanizationRate": 86,
+            "developmentIndex": 0.666,
+            "costOfLivingIndex": 83,
+            "safetyIndex": 55,
+            "jobOpportunityIndex": 58,
+            "infrastructureLevel": 73,
+            "climateRiskIndex": 50,
+            "mainSectors": [
+              "Comércio",
+              "Logística"
+            ]
+          },
+          "rr_boa_vista": {
+            "id": "rr_boa_vista",
+            "name": "Boa Vista",
+            "state": "Roraima",
+            "ufCode": "RR",
+            "region": "Norte",
+            "tier": "capital",
+            "countryId": "BRA",
+            "foundedYear": 1890,
+            "population": 353528,
+            "urbanizationRate": 88,
+            "developmentIndex": 0.685,
+            "costOfLivingIndex": 84,
+            "safetyIndex": 60,
+            "jobOpportunityIndex": 59,
+            "infrastructureLevel": 75,
+            "climateRiskIndex": 48,
+            "mainSectors": [
+              "Comércio",
+              "Agropecuária"
+            ]
+          }
+        },
+        "regionalEvents": [],
+        "activePolicies": [
+          "Consolidação do Real",
+          "Privatizações e Lei de Responsabilidade Fiscal"
+        ],
+        "activeEpidemic": null
+      },
+      "countries": {
+        "BRA": {
+          "id": "BRA",
+          "name": "Brasil",
+          "region": "América do Sul",
+          "capital": "Brasília",
+          "language": "Português",
+          "currencyCode": "BRL",
+          "bloc": "América Latina / Mercosul",
+          "regimeType": "República Federativa Presidencialista",
+          "diplomaticRelationWithBrazil": 100,
+          "population": 180616000,
+          "birthRatePer1000": 13.4,
+          "deathRatePer1000": 6.9,
+          "netMigrationPer1000": -0.2,
+          "urbanizationRate": 79,
+          "gdpBillionsUSD": 1104,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 8.2,
+          "interestRate": 10.5,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "São Paulo",
+            "Rio de Janeiro",
+            "Brasília",
+            "Salvador",
+            "Belo Horizonte",
+            "Curitiba"
+          ]
+        },
+        "USA": {
+          "id": "USA",
+          "name": "Estados Unidos",
+          "region": "América do Norte",
+          "capital": "Washington, D.C.",
+          "language": "Inglês",
+          "currencyCode": "USD",
+          "bloc": "América do Norte",
+          "regimeType": "República Presidencialista",
+          "diplomaticRelationWithBrazil": 62,
+          "population": 283764000,
+          "birthRatePer1000": 11.1,
+          "deathRatePer1000": 9.2,
+          "netMigrationPer1000": 2.9,
+          "urbanizationRate": 75,
+          "gdpBillionsUSD": 15752.9,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 85,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Nova York",
+            "Los Angeles",
+            "Chicago",
+            "Houston"
+          ]
+        },
+        "CHN": {
+          "id": "CHN",
+          "name": "China",
+          "region": "Ásia Oriental",
+          "capital": "Pequim",
+          "language": "Mandarim",
+          "currencyCode": "CNY",
+          "bloc": "Ásia-Pacífico",
+          "regimeType": "República Popular Socialista",
+          "diplomaticRelationWithBrazil": 68,
+          "population": 1207816000,
+          "birthRatePer1000": 8.5,
+          "deathRatePer1000": 7.3,
+          "netMigrationPer1000": -0.2,
+          "urbanizationRate": 56,
+          "gdpBillionsUSD": 10986.6,
+          "gdpGrowthRate": 8.5,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Xangai",
+            "Pequim",
+            "Shenzhen",
+            "Cantão"
+          ]
+        },
+        "ARG": {
+          "id": "ARG",
+          "name": "Argentina",
+          "region": "América do Sul",
+          "capital": "Buenos Aires",
+          "language": "Espanhol",
+          "currencyCode": "ARS",
+          "bloc": "América Latina / Mercosul",
+          "regimeType": "República Presidencialista",
+          "diplomaticRelationWithBrazil": 76,
+          "population": 38841856,
+          "birthRatePer1000": 14.2,
+          "deathRatePer1000": 7.7,
+          "netMigrationPer1000": 0.1,
+          "urbanizationRate": 83,
+          "gdpBillionsUSD": 291,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 60,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosário",
+            "Mendoza"
+          ]
+        },
+        "PRT": {
+          "id": "PRT",
+          "name": "Portugal",
+          "region": "Europa Ocidental",
+          "capital": "Lisboa",
+          "language": "Português",
+          "currencyCode": "EUR",
+          "bloc": "União Europeia / Europa",
+          "regimeType": "República Parlamentar/Semipresidencialista",
+          "diplomaticRelationWithBrazil": 88,
+          "population": 8814232,
+          "birthRatePer1000": 8.2,
+          "deathRatePer1000": 11.9,
+          "netMigrationPer1000": 3.1,
+          "urbanizationRate": 60,
+          "gdpBillionsUSD": 171.3,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Lisboa",
+            "Porto",
+            "Braga",
+            "Coimbra"
+          ]
+        },
+        "DEU": {
+          "id": "DEU",
+          "name": "Alemanha",
+          "region": "Europa Central",
+          "capital": "Berlim",
+          "language": "Alemão",
+          "currencyCode": "EUR",
+          "bloc": "União Europeia / Europa",
+          "regimeType": "República Federal Parlamentarista",
+          "diplomaticRelationWithBrazil": 66,
+          "population": 71184960,
+          "birthRatePer1000": 9.3,
+          "deathRatePer1000": 11.9,
+          "netMigrationPer1000": 3.4,
+          "urbanizationRate": 71,
+          "gdpBillionsUSD": 2909.7,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Berlim",
+            "Munique",
+            "Frankfurt",
+            "Hamburgo"
+          ]
+        },
+        "GBR": {
+          "id": "GBR",
+          "name": "Reino Unido",
+          "region": "Europa Ocidental",
+          "capital": "Londres",
+          "language": "Inglês",
+          "currencyCode": "GBP",
+          "bloc": "União Europeia / Europa",
+          "regimeType": "Monarquia Parlamentarista",
+          "diplomaticRelationWithBrazil": 60,
+          "population": 57420480,
+          "birthRatePer1000": 10.1,
+          "deathRatePer1000": 9.4,
+          "netMigrationPer1000": 3.2,
+          "urbanizationRate": 76,
+          "gdpBillionsUSD": 2022.6,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Londres",
+            "Manchester",
+            "Birmingham",
+            "Edimburgo"
+          ]
+        },
+        "FRA": {
+          "id": "FRA",
+          "name": "França",
+          "region": "Europa Ocidental",
+          "capital": "Paris",
+          "language": "Francês",
+          "currencyCode": "EUR",
+          "bloc": "União Europeia / Europa",
+          "regimeType": "República Presidencialista",
+          "diplomaticRelationWithBrazil": 58,
+          "population": 57839920,
+          "birthRatePer1000": 10.9,
+          "deathRatePer1000": 9.5,
+          "netMigrationPer1000": 1.5,
+          "urbanizationRate": 73,
+          "gdpBillionsUSD": 1974,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Paris",
+            "Lyon",
+            "Marselha",
+            "Toulouse"
+          ]
+        },
+        "JPN": {
+          "id": "JPN",
+          "name": "Japão",
+          "region": "Ásia Oriental",
+          "capital": "Tóquio",
+          "language": "Japonês",
+          "currencyCode": "JPY",
+          "bloc": "Ásia-Pacífico",
+          "regimeType": "Monarquia Constitucional Parlamentarista",
+          "diplomaticRelationWithBrazil": 74,
+          "population": 108078560,
+          "birthRatePer1000": 6.8,
+          "deathRatePer1000": 11.1,
+          "netMigrationPer1000": 0.6,
+          "urbanizationRate": 83,
+          "gdpBillionsUSD": 3769.9,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 85,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 78,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Tóquio",
+            "Osaka",
+            "Yokohama",
+            "Nagoya"
+          ]
+        },
+        "IND": {
+          "id": "IND",
+          "name": "Índia",
+          "region": "Ásia Meridional",
+          "capital": "Nova Délhi",
+          "language": "Hindi / Inglês",
+          "currencyCode": "INR",
+          "bloc": "Ásia-Pacífico",
+          "regimeType": "República Federal Parlamentarista",
+          "diplomaticRelationWithBrazil": 70,
+          "population": 1194976000,
+          "birthRatePer1000": 17.4,
+          "deathRatePer1000": 7.3,
+          "netMigrationPer1000": -0.4,
+          "urbanizationRate": 32,
+          "gdpBillionsUSD": 1997.9,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Mumbai",
+            "Nova Délhi",
+            "Bengaluru",
+            "Hyderabad"
+          ]
+        },
+        "MEX": {
+          "id": "MEX",
+          "name": "México",
+          "region": "América do Norte",
+          "capital": "Cidade do México",
+          "language": "Espanhol",
+          "currencyCode": "MXN",
+          "bloc": "América Latina / Mercosul",
+          "regimeType": "República Presidencialista",
+          "diplomaticRelationWithBrazil": 67,
+          "population": 107856000,
+          "birthRatePer1000": 15.1,
+          "deathRatePer1000": 6.8,
+          "netMigrationPer1000": -0.9,
+          "urbanizationRate": 73,
+          "gdpBillionsUSD": 815.3,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 70,
+          "stabilityIndex": 76,
+          "lifeExpectancy": 72,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Cidade do México",
+            "Monterrey",
+            "Guadalajara",
+            "Puebla"
+          ]
+        },
+        "NGA": {
+          "id": "NGA",
+          "name": "Nigéria",
+          "region": "África Ocidental",
+          "capital": "Abuja",
+          "language": "Inglês",
+          "currencyCode": "NGN",
+          "bloc": "Oriente Médio / África",
+          "regimeType": "República Federal Presidencialista",
+          "diplomaticRelationWithBrazil": 63,
+          "population": 178304800,
+          "birthRatePer1000": 36.8,
+          "deathRatePer1000": 12.8,
+          "netMigrationPer1000": -0.3,
+          "urbanizationRate": 47,
+          "gdpBillionsUSD": 323.1,
+          "gdpGrowthRate": 2.6,
+          "inflationRate": 3.8,
+          "unemploymentRate": 5.5,
+          "interestRate": 4.2,
+          "techAdoptionIndex": 50,
+          "stabilityIndex": 54,
+          "lifeExpectancy": 58,
+          "conflictStatus": "Paz",
+          "majorCities": [
+            "Lagos",
+            "Abuja",
+            "Kano",
+            "Ibadan"
+          ]
+        }
+      },
+      "technology": {
+        "globalTechIndex": 58,
+        "brazilTechIndex": 52,
+        "unlockedTechIds": [
+          "tech_mechanized_agro",
+          "tech_telegraph_radio",
+          "tech_penicillin_antibiotics",
+          "tech_electronics_tv",
+          "tech_aviation_automotive",
+          "tech_mainframes",
+          "tech_space_satellites",
+          "tech_industrial_automation",
+          "tech_personal_computers",
+          "tech_internet",
+          "tech_industrial_robotics",
+          "tech_biotech_genomics"
+        ],
+        "adoptedTechRates": {
+          "tech_mechanized_agro": 88,
+          "tech_telegraph_radio": 88,
+          "tech_penicillin_antibiotics": 88,
+          "tech_electronics_tv": 88,
+          "tech_aviation_automotive": 88,
+          "tech_mainframes": 88,
+          "tech_space_satellites": 88,
+          "tech_industrial_automation": 88,
+          "tech_personal_computers": 88,
+          "tech_internet": 56,
+          "tech_industrial_robotics": 46,
+          "tech_biotech_genomics": 18
+        },
+        "regionalAdoptionByTech": {
+          "tech_mechanized_agro": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_telegraph_radio": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_penicillin_antibiotics": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_electronics_tv": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_aviation_automotive": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_mainframes": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_space_satellites": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_industrial_automation": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_personal_computers": {
+            "Sudeste": 98,
+            "Sul": 95,
+            "Centro-Oeste": 84,
+            "Nordeste": 77,
+            "Norte": 72
+          },
+          "tech_internet": {
+            "Sudeste": 64,
+            "Sul": 60,
+            "Centro-Oeste": 54,
+            "Nordeste": 49,
+            "Norte": 46
+          },
+          "tech_industrial_robotics": {
+            "Sudeste": 53,
+            "Sul": 50,
+            "Centro-Oeste": 44,
+            "Nordeste": 40,
+            "Norte": 38
+          },
+          "tech_biotech_genomics": {
+            "Sudeste": 21,
+            "Sul": 19,
+            "Centro-Oeste": 17,
+            "Nordeste": 16,
+            "Norte": 15
+          }
+        },
+        "recentBreakthroughs": [
+          {
+            "year": 1968,
+            "techId": "tech_industrial_automation",
+            "name": "Linhas Industriais Automatizadas (CNC e CLPs)",
+            "category": "Automação",
+            "truthStatus": "HISTORICAL_FACT"
+          },
+          {
+            "year": 1977,
+            "techId": "tech_personal_computers",
+            "name": "Computadores Pessoais e Planilhas Digitais",
+            "category": "Computação",
+            "truthStatus": "HISTORICAL_FACT"
+          },
+          {
+            "year": 1991,
+            "techId": "tech_internet",
+            "name": "Internet Comercial e World Wide Web",
+            "category": "Internet",
+            "truthStatus": "HISTORICAL_FACT"
+          },
+          {
+            "year": 1985,
+            "techId": "tech_industrial_robotics",
+            "name": "Robótica Industrial de Precisão",
+            "category": "Robótica",
+            "truthStatus": "HISTORICAL_FACT"
+          },
+          {
+            "year": 2000,
+            "techId": "tech_biotech_genomics",
+            "name": "Biotecnologia Agrícola e Genômica Inicial",
+            "category": "Biotecnologia",
+            "truthStatus": "HISTORICAL_FACT"
+          }
+        ]
+      },
+      "politics": {
+        "globalStabilityIndex": 74,
+        "multipolarityIndex": 40,
+        "brazilForeignAlignment": "Diplomacia Tradicional Multilateral",
+        "activeTreaties": [
+          "ONU (Organização das Nações Unidas)",
+          "Mercosul",
+          "União Europeia"
+        ],
+        "recentPoliticalTransitions": [],
+        "activeProtestsOrMovements": [],
+        "citizenParticipationScore": 64
+      },
+      "population": {
+        "worldPopulationTotal": 6816249976,
+        "worldBirthRatePer1000": 16.8,
+        "worldDeathRatePer1000": 7.8,
+        "globalLifeExpectancy": 68,
+        "globalUrbanizationRate": 52,
+        "medianAgeGlobal": 30,
+        "medianAgeBrazil": 32,
+        "netBrazilMigrationPerYear": -35000,
+        "livingGenerationsCount": 3
+      },
+      "culture": {
+        "dominantMusicGenres": [
+          "Funk Carioca",
+          "Sertanejo Universitário",
+          "Pop",
+          "MPB Contemporânea"
+        ],
+        "dominantMediaFormats": [
+          "Portais Web",
+          "Orkut / Redes Sociais Iniciais",
+          "TV Digital"
+        ],
+        "fashionTrend": "Moda casual urbana, streetwear inicial e acessórios digitais",
+        "socialValues": {
+          "digitalization": 62,
+          "familyTraditionalism": 55,
+          "environmentalAwareness": 62,
+          "civicParticipation": 70,
+          "entrepreneurship": 72
+        },
+        "popularSports": [
+          "Futebol",
+          "MMA / Artes Marciais",
+          "Vôlei"
+        ],
+        "slangOrCulturalMarker": "Inclusão digital, banda larga e ascensão da nova classe média"
+      },
+      "environment": {
+        "globalTempAnomalyC": 1.08,
+        "brazilForestCoverPct": 66.6,
+        "renewableEnergySharePct": 38,
+        "airQualityIndexBrazil": 71,
+        "extremeWeatherRisk": 50,
+        "activeClimateEvents": [],
+        "recentDisasters": []
+      },
+      "institutions": {
+        "institutions": [
+          {
+            "id": "inst_banco_brasil",
+            "name": "Banco do Brasil",
+            "countryId": "BRA",
+            "foundedYear": 1808,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_usp",
+            "name": "Universidade de São Paulo (USP)",
+            "countryId": "BRA",
+            "foundedYear": 1934,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_justica_trabalho",
+            "name": "Justiça do Trabalho & CLT",
+            "countryId": "BRA",
+            "foundedYear": 1943,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_petrobras",
+            "name": "Petrobras",
+            "countryId": "BRA",
+            "foundedYear": 1953,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_banco_central",
+            "name": "Banco Central do Brasil",
+            "countryId": "BRA",
+            "foundedYear": 1964,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_embrapa",
+            "name": "Embrapa (Pesquisa Agropecuária)",
+            "countryId": "BRA",
+            "foundedYear": 1973,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_sus",
+            "name": "SUS (Sistema Único de Saúde)",
+            "countryId": "BRA",
+            "foundedYear": 1988,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          },
+          {
+            "id": "inst_pix",
+            "name": "Sistema de Pagamentos Instantâneos (Pix)",
+            "countryId": "BRA",
+            "foundedYear": 2020,
+            "status": "Ainda não fundada",
+            "effectiveness": 0,
+            "publicTrust": 0
+          },
+          {
+            "id": "inst_onu",
+            "name": "Organização das Nações Unidas (ONU)",
+            "countryId": "GLOBAL",
+            "foundedYear": 1945,
+            "status": "Ativa",
+            "effectiveness": 66,
+            "publicTrust": 60
+          }
+        ]
+      },
+      "companies": [
+        {
+          "id": "comp_casa_comercio",
+          "name": "Armazéns Brasil Central",
+          "sector": "Comércio",
+          "countryId": "BRA",
+          "headquartersCity": "São Paulo",
+          "foundedYear": 1910,
+          "status": "Ativa",
+          "valuationBillionsBRL": 1.12,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 6720,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 0,
+          "minYearAvailable": 1910
+        },
+        {
+          "id": "comp_cafe_export",
+          "name": "Companhia Paulista de Exportação",
+          "sector": "Agropecuária",
+          "countryId": "BRA",
+          "headquartersCity": "Campinas",
+          "foundedYear": 1895,
+          "status": "Ativa",
+          "valuationBillionsBRL": 2.52,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 11760,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 0,
+          "minYearAvailable": 1895
+        },
+        {
+          "id": "comp_banco_nacional",
+          "name": "Banco do Brasil S.A.",
+          "sector": "Finanças",
+          "countryId": "BRA",
+          "headquartersCity": "Rio de Janeiro",
+          "foundedYear": 1808,
+          "status": "Ativa",
+          "valuationBillionsBRL": 134.4,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 238000,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 5,
+          "minYearAvailable": 1808
+        },
+        {
+          "id": "comp_metalurgica",
+          "name": "Siderúrgica Nacional Integrada",
+          "sector": "Indústria",
+          "countryId": "BRA",
+          "headquartersCity": "Rio de Janeiro",
+          "foundedYear": 1941,
+          "status": "Ativa",
+          "valuationBillionsBRL": 46.2,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 61600,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 12,
+          "minYearAvailable": 1941
+        },
+        {
+          "id": "comp_hospital_vida",
+          "name": "Rede Hospitalar Santa Vida",
+          "sector": "Saúde",
+          "countryId": "BRA",
+          "headquartersCity": "Belo Horizonte",
+          "foundedYear": 1952,
+          "status": "Ativa",
+          "valuationBillionsBRL": 14.04,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 31050,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 15,
+          "minYearAvailable": 1952
+        },
+        {
+          "id": "comp_rede_tv",
+          "name": "Rede Brasil de Radiodifusão e TV",
+          "sector": "Entretenimento",
+          "countryId": "BRA",
+          "headquartersCity": "Rio de Janeiro",
+          "foundedYear": 1965,
+          "status": "Ativa",
+          "valuationBillionsBRL": 23.27,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 20727,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 20,
+          "minYearAvailable": 1965
+        },
+        {
+          "id": "comp_agro_verde",
+          "name": "AgroSul Cooperativa Moderna",
+          "sector": "Agropecuária",
+          "countryId": "BRA",
+          "headquartersCity": "Curitiba",
+          "foundedYear": 1974,
+          "status": "Ativa",
+          "valuationBillionsBRL": 15.05,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 23940,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 25,
+          "minYearAvailable": 1974
+        },
+        {
+          "id": "comp_construtora_horizonte",
+          "name": "Construtora Horizonte Brasil",
+          "sector": "Construção",
+          "countryId": "BRA",
+          "headquartersCity": "Brasília",
+          "foundedYear": 1960,
+          "status": "Ativa",
+          "valuationBillionsBRL": 14.98,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 37440,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 18,
+          "minYearAvailable": 1960
+        },
+        {
+          "id": "comp_log_express",
+          "name": "TransBrasil Logística",
+          "sector": "Logística",
+          "countryId": "BRA",
+          "headquartersCity": "Goiânia",
+          "foundedYear": 1982,
+          "status": "Ativa",
+          "valuationBillionsBRL": 6.07,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 17820,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 30,
+          "minYearAvailable": 1982
+        },
+        {
+          "id": "comp_tech_brasil",
+          "name": "TechBrasil Sistemas S.A.",
+          "sector": "Tecnologia",
+          "countryId": "BRA",
+          "headquartersCity": "São Paulo",
+          "foundedYear": 1998,
+          "status": "Ativa",
+          "valuationBillionsBRL": 8.95,
+          "revenueGrowthPct": 4.2,
+          "employeesCount": 4788,
+          "hiringCapacity": 68,
+          "minTechIndexRequired": 45,
+          "minYearAvailable": 1998
+        }
+      ],
+      "historicalLog": [
+        {
+          "id": "hist_1500_descobrimento",
+          "year": 1500,
+          "month": 4,
+          "title": "Chegada dos Portugueses ao Brasil",
+          "summary": "Expedição de Pedro Álvares Cabral chega ao litoral baiano, iniciando a colonização portuguesa nas Américas.",
+          "region": "Brasil / Atlântico",
+          "scope": "brazil",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "IDADE_MODERNA",
+          "brazilPhase": "BRASIL_COLONIA",
+          "countriesAffected": [
+            "BRA",
+            "PRT"
+          ],
+          "tags": [
+            "colonialismo",
+            "brasil"
+          ],
+          "consequences": [
+            "Início do ciclo colonial português"
+          ],
+          "affectedSystems": [
+            "politics",
+            "demographics",
+            "economy"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1500_descobrimento",
+          "impact": {
+            "brazilGdpDeltaPct": 0.5,
+            "populationDeltaPct": 0.1
+          }
+        },
+        {
+          "id": "hist_1760_revolucao_industrial",
+          "year": 1760,
+          "month": 1,
+          "title": "Primeira Revolução Industrial",
+          "summary": "Mecanização têxtil e máquinas a vapor na Grã-Bretanha inauguram a produção fabril moderna.",
+          "region": "Europa / Global",
+          "scope": "scientific",
+          "category": "Ciência & Tecnologia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "IDADE_MODERNA",
+          "countriesAffected": [
+            "GBR",
+            "FRA",
+            "DEU"
+          ],
+          "tags": [
+            "indústria",
+            "vapor",
+            "economia"
+          ],
+          "consequences": [
+            "Urbanização acelerada",
+            "Expansão fabril"
+          ],
+          "affectedSystems": [
+            "economy",
+            "technology",
+            "population"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1760_revolucao_industrial",
+          "impact": {
+            "globalGdpDeltaPct": 1.8,
+            "urbanizationDelta": 1.2
+          }
+        },
+        {
+          "id": "hist_1789_revolucao_francesa",
+          "year": 1789,
+          "month": 7,
+          "title": "Revolução Francesa",
+          "summary": "Queda do Antigo Regime na França transforma o direito constitucional e a política mundial.",
+          "region": "Europa",
+          "scope": "global",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "CONTEMPORANEA",
+          "countriesAffected": [
+            "FRA",
+            "GBR",
+            "PRT"
+          ],
+          "tags": [
+            "política",
+            "constituição"
+          ],
+          "consequences": [
+            "Difusão do constitucionalismo moderno"
+          ],
+          "affectedSystems": [
+            "politics",
+            "institutions"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1789_revolucao_francesa",
+          "impact": {
+            "diplomacyShift": -6,
+            "trustInInstitutionsDelta": 4
+          }
+        },
+        {
+          "id": "hist_1822_independencia",
+          "year": 1822,
+          "month": 9,
+          "title": "Independência do Brasil",
+          "summary": "Proclamação da Independência e instituição do Império do Brasil sob D. Pedro I.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Política Nacional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "CONTEMPORANEA",
+          "brazilPhase": "IMPERIO_DO_BRASIL",
+          "countriesAffected": [
+            "BRA",
+            "PRT"
+          ],
+          "tags": [
+            "independência",
+            "império"
+          ],
+          "consequences": [
+            "Soberania política brasileira"
+          ],
+          "affectedSystems": [
+            "politics",
+            "brazil",
+            "economy"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1822_independencia",
+          "impact": {
+            "brazilGdpDeltaPct": 1.4,
+            "trustInInstitutionsDelta": 5
+          }
+        },
+        {
+          "id": "hist_1888_lei_aurea",
+          "year": 1888,
+          "month": 5,
+          "title": "Abolição da Escravatura no Brasil",
+          "summary": "Assinatura da Lei Áurea encerra formalmente o regime escravocrata no Império do Brasil.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Sociedade & Direitos",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "CONTEMPORANEA",
+          "brazilPhase": "IMPERIO_DO_BRASIL",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "sociedade",
+            "direitos"
+          ],
+          "consequences": [
+            "Transição para trabalho assalariado e crescimento urbano"
+          ],
+          "affectedSystems": [
+            "society",
+            "economy",
+            "brazil"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1888_lei_aurea",
+          "impact": {
+            "urbanizationDelta": 1.5,
+            "brazilGdpDeltaPct": 0.8
+          }
+        },
+        {
+          "id": "hist_1889_republica",
+          "year": 1889,
+          "month": 11,
+          "title": "Proclamação da República",
+          "summary": "Fim da monarquia imperial e instauração da República dos Estados Unidos do Brasil.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Política Nacional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "CONTEMPORANEA",
+          "brazilPhase": "PRIMEIRA_REPUBLICA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "república",
+            "política"
+          ],
+          "consequences": [
+            "Sistema presidencialista federativo"
+          ],
+          "affectedSystems": [
+            "politics",
+            "brazil"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1889_republica",
+          "impact": {
+            "trustInInstitutionsDelta": 3,
+            "brazilInflationDelta": 4.5
+          }
+        },
+        {
+          "id": "hist_1914_ww1",
+          "year": 1914,
+          "month": 7,
+          "endYear": 1918,
+          "title": "Primeira Guerra Mundial",
+          "summary": "Conflito global centrado na Europa reconfigura fronteiras, comércio internacional e acelera industrialização substitutiva no Brasil.",
+          "region": "Europa / Global",
+          "scope": "global",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "DEU",
+            "FRA",
+            "GBR",
+            "USA",
+            "BRA"
+          ],
+          "tags": [
+            "guerra",
+            "economia"
+          ],
+          "consequences": [
+            "Substituição de importações no Brasil",
+            "Queda do comércio europeu"
+          ],
+          "affectedSystems": [
+            "economy",
+            "politics",
+            "population"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1914_ww1",
+          "impact": {
+            "globalGdpDeltaPct": -3.5,
+            "globalInflationDelta": 4.5,
+            "brazilInflationDelta": 3,
+            "diplomacyShift": -12
+          }
+        },
+        {
+          "id": "hist_1918_gripe_espanhola",
+          "year": 1918,
+          "month": 9,
+          "endYear": 1919,
+          "title": "Pandemia de Gripe Espanhola",
+          "summary": "Surto gripal severo atinge capitais brasileiras e países de todos os continentes, pressionando sistemas sanitários.",
+          "region": "Global / Brasil",
+          "scope": "global",
+          "category": "Clima & Saúde",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "BRA",
+            "USA",
+            "GBR",
+            "FRA",
+            "DEU"
+          ],
+          "tags": [
+            "saúde",
+            "epidemia"
+          ],
+          "consequences": [
+            "Pressão sobre saúde pública e mortalidade temporária"
+          ],
+          "affectedSystems": [
+            "health",
+            "population"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1918_gripe_espanhola",
+          "impact": {
+            "playerHealthDelta": -6,
+            "playerHappinessDelta": -5,
+            "globalGdpDeltaPct": -1.5
+          }
+        },
+        {
+          "id": "hist_1929_crise",
+          "year": 1929,
+          "month": 10,
+          "title": "Quebra da Bolsa de Nova York (Grande Depressão)",
+          "summary": "Colapso financeiro nos EUA gera recessão mundial e derruba exportações brasileiras de café.",
+          "region": "América do Norte / Global",
+          "scope": "economic",
+          "category": "Economia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "USA",
+            "BRA",
+            "DEU",
+            "GBR"
+          ],
+          "tags": [
+            "crise",
+            "café",
+            "desemprego"
+          ],
+          "consequences": [
+            "Crise cafeeira",
+            "Desemprego internacional"
+          ],
+          "affectedSystems": [
+            "economy",
+            "brazil",
+            "jobs"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1929_crise",
+          "impact": {
+            "globalGdpDeltaPct": -6.5,
+            "brazilGdpDeltaPct": -4.2,
+            "unemploymentDelta": 4.5,
+            "playerCostOfLivingMultiplierDelta": -0.05
+          }
+        },
+        {
+          "id": "hist_1930_vargas",
+          "year": 1930,
+          "month": 11,
+          "title": "Revolução de 1930 e Início da Era Vargas",
+          "summary": "Fim da República Velha, centralização política e início de reformas trabalhistas e industriais no Brasil.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Política Nacional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "ERA_VARGAS",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "vargas",
+            "trabalho",
+            "indústria"
+          ],
+          "consequences": [
+            "Industrialização de base e regulação trabalhista"
+          ],
+          "affectedSystems": [
+            "politics",
+            "brazil",
+            "economy"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1930_vargas",
+          "impact": {
+            "brazilGdpDeltaPct": 2,
+            "urbanizationDelta": 1.8,
+            "techBoostCategories": [
+              "Indústria"
+            ]
+          }
+        },
+        {
+          "id": "hist_1939_ww2",
+          "year": 1939,
+          "month": 9,
+          "endYear": 1945,
+          "title": "Segunda Guerra Mundial",
+          "summary": "Maior conflito da história mobiliza potências globais, impulsiona tecnologia e leva o Brasil a enviar a FEB à Itália.",
+          "region": "Global",
+          "scope": "global",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "DEU",
+            "GBR",
+            "USA",
+            "JPN",
+            "FRA",
+            "BRA"
+          ],
+          "tags": [
+            "guerra",
+            "geopolítica",
+            "tecnologia"
+          ],
+          "consequences": [
+            "Reordem geopolítica e criação da ONU em 1945"
+          ],
+          "affectedSystems": [
+            "politics",
+            "economy",
+            "technology"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1939_ww2",
+          "impact": {
+            "globalGdpDeltaPct": -4,
+            "globalInflationDelta": 5,
+            "diplomacyShift": -15,
+            "techBoostCategories": [
+              "Computação",
+              "Medicina",
+              "Eletrônica"
+            ]
+          }
+        },
+        {
+          "id": "hist_1943_clt",
+          "year": 1943,
+          "month": 5,
+          "title": "Consolidação das Leis do Trabalho (CLT)",
+          "summary": "Unificação da legislação trabalhista urbana no Brasil, criando carteira assinada e regras previdenciárias.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Sociedade & Direitos",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "ERA_VARGAS",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "clt",
+            "trabalho",
+            "brasil"
+          ],
+          "consequences": [
+            "Direitos trabalhistas urbanos consolidados"
+          ],
+          "affectedSystems": [
+            "institutions",
+            "jobs",
+            "brazil"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1943_clt",
+          "impact": {
+            "urbanizationDelta": 1.2,
+            "trustInInstitutionsDelta": 4
+          }
+        },
+        {
+          "id": "hist_1947_guerra_fria",
+          "year": 1947,
+          "month": 3,
+          "endYear": 1991,
+          "title": "Início da Guerra Fria e Descolonização",
+          "summary": "Bipolaridade geopolítica entre blocos liderados por EUA e URSS, acompanhada pela independência na Ásia e África.",
+          "region": "Global",
+          "scope": "global",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "USA",
+            "DEU",
+            "IND",
+            "NGA",
+            "BRA"
+          ],
+          "tags": [
+            "guerra fria",
+            "descolonização",
+            "geopolítica"
+          ],
+          "consequences": [
+            "Corrida espacial e tecnológica",
+            "Emergência de novos países"
+          ],
+          "affectedSystems": [
+            "politics",
+            "technology"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1947_guerra_fria",
+          "impact": {
+            "diplomacyShift": -4,
+            "techBoostCategories": [
+              "Exploração Espacial",
+              "Computação"
+            ]
+          }
+        },
+        {
+          "id": "hist_1950_tv_brasil",
+          "year": 1950,
+          "month": 9,
+          "title": "Inauguração da Televisão no Brasil (TV Tupi)",
+          "summary": "Transmissão inaugural da TV Tupi marca o início da era televisiva na América Latina.",
+          "region": "Brasil (São Paulo)",
+          "scope": "cultural",
+          "category": "Cultura",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "REPUBLICA_POPULISTA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "cultura",
+            "tv",
+            "comunicação"
+          ],
+          "consequences": [
+            "Ascensão da mídia televisiva nacional"
+          ],
+          "affectedSystems": [
+            "culture",
+            "technology"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1950_tv_brasil",
+          "impact": {
+            "techBoostCategories": [
+              "Comunicação",
+              "Eletrônica"
+            ]
+          }
+        },
+        {
+          "id": "hist_1960_brasilia",
+          "year": 1960,
+          "month": 4,
+          "title": "Inauguração de Brasília",
+          "summary": "Transferência da capital federal do Rio de Janeiro para Brasília no Planalto Central.",
+          "region": "Brasil (Centro-Oeste)",
+          "scope": "brazil",
+          "category": "Desenvolvimento Regional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "REPUBLICA_POPULISTA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "brasília",
+            "urbanização"
+          ],
+          "consequences": [
+            "Interiorização do desenvolvimento brasileiro"
+          ],
+          "affectedSystems": [
+            "brazil",
+            "geography",
+            "economy"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1960_brasilia",
+          "impact": {
+            "brazilGdpDeltaPct": 1.8,
+            "brazilInflationDelta": 6.5,
+            "urbanizationDelta": 2
+          }
+        },
+        {
+          "id": "hist_1964_regime_militar",
+          "year": 1964,
+          "month": 4,
+          "endYear": 1985,
+          "title": "Golpe Civil-Militar de 1964",
+          "summary": "Interrupção democrática instala regime militar autoritário no Brasil por 21 anos.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Política Nacional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "REGIME_MILITAR",
+          "countriesAffected": [
+            "BRA",
+            "USA"
+          ],
+          "tags": [
+            "ditadura",
+            "política"
+          ],
+          "consequences": [
+            "Suspensão de eleições diretas presidenciais até 1989"
+          ],
+          "affectedSystems": [
+            "politics",
+            "brazil",
+            "institutions"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1964_regime_militar",
+          "impact": {
+            "trustInInstitutionsDelta": -14,
+            "brazilInflationDelta": 4
+          }
+        },
+        {
+          "id": "hist_1969_apollo11",
+          "year": 1969,
+          "month": 7,
+          "title": "Pouso da Apollo 11 na Lua",
+          "summary": "Humanidade alcança a superfície lunar, marco da corrida espacial e da microeletrônica.",
+          "region": "Global / EUA",
+          "scope": "scientific",
+          "category": "Ciência & Tecnologia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "USA"
+          ],
+          "tags": [
+            "ciência",
+            "espaço"
+          ],
+          "consequences": [
+            "Aceleração em microcomputação e materiais"
+          ],
+          "affectedSystems": [
+            "technology",
+            "culture"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1969_apollo11",
+          "impact": {
+            "techBoostCategories": [
+              "Computação",
+              "Exploração Espacial",
+              "Comunicação"
+            ],
+            "playerHappinessDelta": 3
+          }
+        },
+        {
+          "id": "hist_1973_choque_petroleo",
+          "year": 1973,
+          "month": 10,
+          "title": "Primeiro Choque do Petróleo",
+          "summary": "Alta abrupta do barril de petróleo encerra o milagre econômico em diversos países e pressiona inflação global.",
+          "region": "Global",
+          "scope": "economic",
+          "category": "Economia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "USA",
+            "BRA",
+            "DEU",
+            "JPN",
+            "GBR"
+          ],
+          "tags": [
+            "petróleo",
+            "inflação",
+            "energia"
+          ],
+          "consequences": [
+            "Aumento de custos energéticos e inflação mundial"
+          ],
+          "affectedSystems": [
+            "economy",
+            "brazil"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1973_choque_petroleo",
+          "impact": {
+            "globalGdpDeltaPct": -2.5,
+            "globalInflationDelta": 6,
+            "brazilInflationDelta": 12,
+            "playerCostOfLivingMultiplierDelta": 0.08
+          }
+        },
+        {
+          "id": "hist_1985_redemocratizacao",
+          "year": 1985,
+          "month": 3,
+          "title": "Fim do Regime Militar e Nova República",
+          "summary": "Transição para governo civil encerra duas décadas de regime militar no Brasil.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Política Nacional",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "NOVA_REPUBLICA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "democracia",
+            "nova república"
+          ],
+          "consequences": [
+            "Retorno do poder civil e convocação da Constituinte"
+          ],
+          "affectedSystems": [
+            "politics",
+            "brazil"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1985_redemocratizacao",
+          "impact": {
+            "trustInInstitutionsDelta": 10
+          }
+        },
+        {
+          "id": "hist_1988_constituicao",
+          "year": 1988,
+          "month": 10,
+          "title": "Promulgação da Constituição Cidadã de 1988",
+          "summary": "Nova Constituição estabelece garantias sociais, voto direto universal e cria a base do SUS.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Sociedade & Direitos",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "NOVA_REPUBLICA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "constituição",
+            "sus",
+            "direitos"
+          ],
+          "consequences": [
+            "Sistema Único de Saúde (SUS) e eleições diretas"
+          ],
+          "affectedSystems": [
+            "institutions",
+            "health",
+            "politics"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1988_constituicao",
+          "impact": {
+            "trustInInstitutionsDelta": 8,
+            "playerHealthDelta": 2,
+            "techBoostCategories": [
+              "Medicina"
+            ]
+          }
+        },
+        {
+          "id": "hist_1989_queda_muro",
+          "year": 1989,
+          "month": 11,
+          "title": "Queda do Muro de Berlim",
+          "summary": "Símbolo do fim da Guerra Fria, acelera a reunificação alemã e a globalização econômica.",
+          "region": "Europa / Global",
+          "scope": "global",
+          "category": "Geopolítica",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "countriesAffected": [
+            "DEU",
+            "USA",
+            "FRA",
+            "GBR"
+          ],
+          "tags": [
+            "guerra fria",
+            "globalização"
+          ],
+          "consequences": [
+            "Expansão do comércio global e integração europeia"
+          ],
+          "affectedSystems": [
+            "politics",
+            "economy"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1989_queda_muro",
+          "impact": {
+            "globalGdpDeltaPct": 1.5,
+            "diplomacyShift": 12
+          }
+        },
+        {
+          "id": "hist_1994_plano_real",
+          "year": 1994,
+          "month": 7,
+          "title": "Implementação do Plano Real",
+          "summary": "Criação da nova moeda brasileira controla a hiperinflação crônica e estabiliza o poder de compra.",
+          "region": "Brasil",
+          "scope": "brazil",
+          "category": "Economia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "NOVA_REPUBLICA",
+          "countriesAffected": [
+            "BRA"
+          ],
+          "tags": [
+            "plano real",
+            "moeda",
+            "inflação"
+          ],
+          "consequences": [
+            "Queda abrupta da inflação e transição monetária CR$ -> R$"
+          ],
+          "affectedSystems": [
+            "economy",
+            "brazil",
+            "monetary"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1994_plano_real",
+          "impact": {
+            "brazilInflationDelta": -45,
+            "brazilGdpDeltaPct": 2.2,
+            "trustInInstitutionsDelta": 9,
+            "playerCostOfLivingMultiplierDelta": -0.06
+          }
+        },
+        {
+          "id": "hist_1995_internet_comercial",
+          "year": 1995,
+          "month": 5,
+          "title": "Abertura Comercial da Internet no Brasil",
+          "summary": "Expansão dos provedores comerciais conecta universidades, empresas e residências brasileiras à Web.",
+          "region": "Brasil / Global",
+          "scope": "scientific",
+          "category": "Ciência & Tecnologia",
+          "origin": "historical",
+          "truthStatus": "HISTORICAL_FACT",
+          "era": "SECULO_XX",
+          "brazilPhase": "NOVA_REPUBLICA",
+          "countriesAffected": [
+            "BRA",
+            "USA"
+          ],
+          "tags": [
+            "internet",
+            "tecnologia"
+          ],
+          "consequences": [
+            "Surgimento de provedores e profissões digitais"
+          ],
+          "affectedSystems": [
+            "technology",
+            "jobs",
+            "culture"
+          ],
+          "processed": true,
+          "idempotencyKey": "hist_1995_internet_comercial",
+          "impact": {
+            "techBoostCategories": [
+              "Internet",
+              "Comunicação",
+              "Computação"
+            ]
+          }
+        }
+      ],
+      "notableNPCs": [
+        {
+          "id": "npc_notable_0_1976",
+          "name": "Leonardo Vasconcelos",
+          "role": "Referência em Cultura",
+          "countryId": "BRA",
+          "city": "Campinas",
+          "birthYear": 1976,
+          "alive": true,
+          "fame": 68,
+          "sector": "Cultura",
+          "summary": "Personalidade influente no setor de Cultura no Brasil.",
+          "personality": [
+            "Cauteloso",
+            "Resiliente"
+          ]
+        },
+        {
+          "id": "npc_notable_1_1971",
+          "name": "Patrícia Vasconcelos",
+          "role": "Referência em Tecnologia",
+          "countryId": "BRA",
+          "city": "Campinas",
+          "birthYear": 1971,
+          "alive": true,
+          "fame": 72,
+          "sector": "Tecnologia",
+          "summary": "Personalidade influente no setor de Tecnologia no Brasil.",
+          "personality": [
+            "Pragmático",
+            "Acolhedor"
+          ]
+        },
+        {
+          "id": "npc_notable_2_1966",
+          "name": "Lucas Vasconcelos",
+          "role": "Empreendedor(a)",
+          "countryId": "BRA",
+          "city": "Campinas",
+          "birthYear": 1966,
+          "alive": true,
+          "fame": 76,
+          "sector": "Economia",
+          "summary": "Personalidade influente no setor de Economia no Brasil.",
+          "personality": [
+            "Acolhedor",
+            "Ambicioso"
+          ]
+        },
+        {
+          "id": "npc_notable_3_1961",
+          "name": "Beatriz Vasconcelos",
+          "role": "Pesquisador(a) Nacional",
+          "countryId": "BRA",
+          "city": "Campinas",
+          "birthYear": 1961,
+          "alive": true,
+          "fame": 80,
+          "sector": "Ciência",
+          "summary": "Personalidade influente no setor de Ciência no Brasil.",
+          "personality": [
+            "Acolhedor",
+            "Pragmático"
+          ]
+        },
+        {
+          "id": "npc_notable_4_1956",
+          "name": "Mateus Vasconcelos",
+          "role": "Referência em Esportes",
+          "countryId": "BRA",
+          "city": "Campinas",
+          "birthYear": 1956,
+          "alive": true,
+          "fame": 84,
+          "sector": "Esportes",
+          "summary": "Personalidade influente no setor de Esportes no Brasil.",
+          "personality": [
+            "Comunicativo",
+            "Criativo"
+          ]
+        }
+      ],
+      "generationsHistory": [],
+      "processedPeriodKeys": [],
+      "lastConsistencyCheck": {
+        "passed": true,
+        "warnings": [],
+        "checkedAtYear": 2002
+      }
+    },
+    "schemaVersion": 11
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "char_1795015947801": {
+    "id": "char_1795015947801",
+    "createdAt": 1795015947802,
+    "updatedAt": 1795015979498,
+    "character": {
+      "id": "char_1795015947801",
+      "userId": "user_default",
+      "firstName": "Pedro",
+      "lastName": "Ferreira",
+      "gender": "Masculino",
+      "avatarSeed": "PedroFerreira",
+      "appearanceSeed": "Pedro_Ferreira_Masculino_prheq",
+      "appearance": {
+        "characterId": "char_1795015947801",
+        "appearanceSeed": "Pedro_Ferreira_Masculino_prheq",
+        "faceShape": "largo",
+        "skinTone": "clara_rosada",
+        "eyeStyle": "semicerrados",
+        "eyeColor": "azul_profundo",
+        "eyebrowStyle": "arqueada",
+        "noseStyle": "pequeno",
+        "mouthStyle": "arco",
+        "hairStyle": "ondulado_curto",
+        "hairColor": "loiro_escuro",
+        "facialHair": "none",
+        "mustacheStyle": "none",
+        "accessories": {
+          "glasses": "none",
+          "earrings": "none",
+          "freckles": false,
+          "facialMark": "bandaid"
+        },
+        "shirtColor": "#EC4899",
+        "backgroundColor": "#E2E8F0"
+      },
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Campinas",
+      "birthYear": 2000,
+      "currentAge": 2,
+      "money": 1500000,
+      "salary": 0,
+      "health": 100,
+      "happiness": 100,
+      "intelligence": 53,
+      "looks": 60,
+      "fitness": 70,
+      "charisma": 50,
+      "discipline": 53,
+      "reputation": 50,
+      "careerSkill": 0,
+      "emotionalStability": 70,
+      "status": "Vivo",
+      "generation": 1,
+      "educationLevel": "Nenhum",
+      "educationProgress": 0,
+      "careerExperienceYears": 0,
+      "criminalRecord": {
+        "arrests": 0,
+        "prisonYearsRemaining": 0,
+        "crimesCommitted": []
+      }
+    },
+    "family": [
+      {
+        "id": "fam_1",
+        "characterId": "char_1795015947801",
+        "name": "Carlos Ferreira",
+        "relation": "Pai",
+        "age": 34,
+        "alive": true,
+        "relationship": 80,
+        "occupation": "Motorista / Comerciante",
+        "appearanceSeed": "char_1795015947801_fam_1_Pai",
+        "appearance": {
+          "characterId": "fam_1",
+          "appearanceSeed": "char_1795015947801_fam_1_Pai",
+          "faceShape": "redondo",
+          "skinTone": "clara_rosada",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "azul_profundo",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "aquilino",
+          "mouthStyle": "cheios",
+          "hairStyle": "curto_social",
+          "hairColor": "loiro_platinado",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#F97316",
+          "backgroundColor": "#FCE7F3"
+        }
+      },
+      {
+        "id": "fam_2",
+        "characterId": "char_1795015947801",
+        "name": "Maria Ferreira",
+        "relation": "Mãe",
+        "age": 32,
+        "alive": true,
+        "relationship": 85,
+        "occupation": "Professora",
+        "appearanceSeed": "char_1795015947801_fam_2_Mae",
+        "appearance": {
+          "characterId": "fam_2",
+          "appearanceSeed": "char_1795015947801_fam_2_Mae",
+          "faceShape": "largo",
+          "skinTone": "porcelana",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "verde_esmeralda",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "pequeno",
+          "mouthStyle": "finos",
+          "hairStyle": "cacheado_curto",
+          "hairColor": "loiro_escuro",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#EC4899",
+          "backgroundColor": "#FCE7F3"
+        }
+      },
+      {
+        "id": "fam_3",
+        "characterId": "char_1795015947801",
+        "name": "Antônio Ferreira",
+        "relation": "Avô",
+        "age": 64,
+        "alive": true,
+        "relationship": 75,
+        "occupation": "Aposentado",
+        "appearanceSeed": "char_1795015947801_fam_3_AvoM",
+        "appearance": {
+          "characterId": "fam_3",
+          "appearanceSeed": "char_1795015947801_fam_3_AvoM",
+          "faceShape": "redondo",
+          "skinTone": "clara_rosada",
+          "eyeStyle": "grandes",
+          "eyeColor": "castanho_medio",
+          "eyebrowStyle": "cheia",
+          "noseStyle": "aquilino",
+          "mouthStyle": "finos",
+          "hairStyle": "careca",
+          "hairColor": "loiro_platinado",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#10B981",
+          "backgroundColor": "#E0E7FF"
+        }
+      },
+      {
+        "id": "fam_4",
+        "characterId": "char_1795015947801",
+        "name": "Helena Ferreira",
+        "relation": "Avó",
+        "age": 62,
+        "alive": true,
+        "relationship": 78,
+        "occupation": "Costureira",
+        "appearanceSeed": "char_1795015947801_fam_4_AvoF",
+        "appearance": {
+          "characterId": "fam_4",
+          "appearanceSeed": "char_1795015947801_fam_4_AvoF",
+          "faceShape": "triangulo_invertido",
+          "skinTone": "porcelana",
+          "eyeStyle": "semicerrados",
+          "eyeColor": "verde_esmeralda",
+          "eyebrowStyle": "arqueada",
+          "noseStyle": "pequeno",
+          "mouthStyle": "finos",
+          "hairStyle": "black_power_volumoso",
+          "hairColor": "loiro_escuro",
+          "facialHair": "none",
+          "mustacheStyle": "none",
+          "accessories": {
+            "glasses": "none",
+            "earrings": "none",
+            "freckles": false,
+            "facialMark": "none"
+          },
+          "shirtColor": "#EC4899",
+          "backgroundColor": "#FEF3C7"
+        }
+      }
+    ],
+    "assets": [],
+    "events": [
+      {
+        "id": "evt_birth",
+        "characterId": "char_1795015947801",
+        "age": 0,
+        "year": 2000,
+        "title": "Nascimento",
+        "description": "Você nasceu em um hospital em Campinas, São Paulo. Seus pais, Carlos Ferreira e Maria Ferreira, estão radiantes com a sua chegada.",
+        "category": "Família",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Chorar muito e mamar",
+            "effectDescription": "Início saudável da vida."
+          },
+          {
+            "id": "b",
+            "text": "Dormir tranquilo",
+            "effectDescription": "Bebê calmo e sossegado."
+          }
+        ],
+        "chosenOptionId": "a"
+      },
+      {
+        "id": "evt_1795015955436",
+        "characterId": "char_1795015947801",
+        "age": 1,
+        "year": 2001,
+        "title": "Churrasco de Domingo em Família",
+        "description": "Sua família organizou um churrasco tradicional de domingo na casa dos seus pais, com direito a muita carne na brasa, pagode e conversa boa.",
+        "category": "Família",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Ajudar a assar a carne e socializar com todos",
+            "effectDescription": "Aumenta felicidade e laços familiares."
+          },
+          {
+            "id": "b",
+            "text": "Ficar no quarto jogando videogame ou no celular",
+            "effectDescription": "Aumenta estresse, diminui relação com os pais."
+          },
+          {
+            "id": "c",
+            "text": "Comer demais e beber aquela cerveja gelada",
+            "effectDescription": "Felicidade alta, leve queda no condicionamento físico."
+          }
+        ],
+        "chosenOptionId": "b"
+      },
+      {
+        "id": "evt_1795015978039",
+        "characterId": "char_1795015947801",
+        "age": 2,
+        "year": 2002,
+        "title": "Passeio na Lagoa do Taquaral",
+        "description": "Aos 2 anos, morando em Campinas, São Paulo, sua vida segue em frente com novos desafios e oportunidades cotidianas.",
+        "category": "Geral",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Focar nos estudos e trabalho com dedicação",
+            "effectDescription": "Melhora inteligência e carreira."
+          },
+          {
+            "id": "b",
+            "text": "Curtir a vida, amigos e lazer",
+            "effectDescription": "Aumenta felicidade e relaxamento."
+          },
+          {
+            "id": "c",
+            "text": "Investir em novas oportunidades de negócio ou economia",
+            "effectDescription": "Pode aumentar finanças ou gerar risco."
+          }
+        ],
+        "chosenOptionId": "b"
+      }
+    ],
+    "history": [
+      {
+        "age": 0,
+        "year": 2000,
+        "summary": "Nasceu em Campinas, São Paulo."
+      },
+      {
+        "age": 1,
+        "year": 2001,
+        "summary": "Completou 1 anos. Churrasco de Domingo em Família"
+      },
+      {
+        "age": 2,
+        "year": 2002,
+        "summary": "Completou 2 anos. Passeio na Lagoa do Taquaral"
+      }
+    ]
+  }
+}
